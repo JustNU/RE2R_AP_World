@@ -80,12 +80,15 @@ class WeaponRandomizer():
     # CrossScenarioWeapons == "All"
     ###
     def all(self, include_ammo: Optional[bool] = True):
-        self._determine_starting_weapon()
+        random_weapon = self._determine_starting_weapon()
+        self._queue_swap(self.starting_ammo_name, random_weapon['ammo'], "Ammo")
+        
         weapons = self._get_weapons_from_locations()
 
         # replace the base weapons...
         for weapon in weapons:
             matched = self.random.choice(self.all_weapons)
+            
             self._queue_swap(weapon['name'], matched['name'], "Weapon")
 
             # remove anything that was placed so it's not placed again
