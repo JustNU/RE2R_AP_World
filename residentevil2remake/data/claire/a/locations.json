@@ -781,7 +781,7 @@
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/UnderGoddes"
     },
     {
-        "name": "Location 1",
+        "name": "Near The Stairs",
         "region": "Underground Stairs",
         "original_item": "Hand Grenade",
         "condition": {},    
@@ -790,7 +790,7 @@
         "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/Weapon/Granade"
     },
     {
-        "name": "Location 2",
+        "name": "STARS Badge Crate",
         "region": "Underground Stairs",
         "original_item": "Suppressor - MQ 11",
         "condition": {
@@ -1207,9 +1207,7 @@
         "name": "Hallway Corner",
         "region": "Roof",
         "original_item": "Red Herb",
-        "condition": {
-            "items": ["Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Heart Key", "Diamond Key"]
-        },
+        "condition": {},
         "item_object": "sm70_002",
         "parent_object": "sm70_002_RedHerb",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/Corrider"
@@ -1297,7 +1295,11 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_001_01_01_01",
-        "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/green_herb"
+        "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/green_herb",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Basketball Court on Bench 1",
@@ -1306,7 +1308,11 @@
         "condition": {},    
         "item_object": "sm70_102",
         "parent_object": "MachineGun_50",
-        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item"
+        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Basketball Court on Bench 2",
@@ -1315,7 +1321,11 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "GreenHurb",
-        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item"
+        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Outside Bus",
@@ -1324,7 +1334,11 @@
         "condition": {},    
         "item_object": "sm70_003",
         "parent_object": "BlueHurb",
-        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item"
+        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Inside Bus",
@@ -1333,7 +1347,11 @@
         "condition": {},    
         "item_object": "WP6200",
         "parent_object": "Bomb",
-        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item"
+        "folder_path": "RopewayContents/World/Location_OrphanApproach/LocationLevel_OrphanApproach/Item/common/Claire_common/Item",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Bathroom Basket",
@@ -1342,7 +1360,11 @@
         "condition": {},    
         "item_object": "sm70_102",
         "parent_object": "MachineGun_50",
-        "folder_path": "RopewayContents/World/Location_OrphanAsylum/LocationLevel_OrphanAsylum/LocationFsm_OrphanAsylum/S04_0000/Claire_S04_0000/Item"
+        "folder_path": "RopewayContents/World/Location_OrphanAsylum/LocationLevel_OrphanAsylum/LocationFsm_OrphanAsylum/S04_0000/Claire_S04_0000/Item",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Bathroom Vanity",
@@ -1351,7 +1373,11 @@
         "condition": {},    
         "item_object": "sm70_000",
         "parent_object": "Spray",
-        "folder_path": "RopewayContents/World/Location_OrphanAsylum/LocationLevel_OrphanAsylum/LocationFsm_OrphanAsylum/S04_0000/Claire_S04_0000/Item"
+        "folder_path": "RopewayContents/World/Location_OrphanAsylum/LocationLevel_OrphanAsylum/LocationFsm_OrphanAsylum/S04_0000/Claire_S04_0000/Item",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Maintenance Room",
@@ -1360,7 +1386,11 @@
         "condition": {},    
         "item_object": "sm70_102",
         "parent_object": "sm70_102_ww_3_01",
-        "folder_path": "RopewayContents/World/Location_WasteWater/LocationLevel_WasteWater/Item/common/Claire_common/SubMachineGun"
+        "folder_path": "RopewayContents/World/Location_WasteWater/LocationLevel_WasteWater/Item/common/Claire_common/SubMachineGun",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "Table",
@@ -1369,7 +1399,11 @@
         "condition": {},    
         "item_object": "sm70_112",
         "parent_object": "sm70_112_ww_2",
-        "folder_path": "RopewayContents/World/Location_WasteWater/LocationLevel_WasteWater/Item/common/Claire_common/Magnum"
+        "folder_path": "RopewayContents/World/Location_WasteWater/LocationLevel_WasteWater/Item/common/Claire_common/Magnum",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
+						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
+						"Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
     },
     {
         "name": "At Water Gate",
