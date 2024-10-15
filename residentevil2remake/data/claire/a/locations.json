@@ -7,7 +7,7 @@
         "item_object": "sm70_000",
         "parent_object": "sm70_000_Spray",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Hall",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Main Desk",
@@ -17,7 +17,7 @@
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Hall",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Marvin's Knife",
@@ -27,7 +27,8 @@
         "item_object": "CFPlayExtra_GoHall",
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Scenario/S02_0000/1FE/1FE_GoHall",
-        "randomized": 0
+        "randomized": 0,
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Lion Statue",
@@ -37,7 +38,7 @@
         "item_object": "sm42_176_HieroglyphicDialLock01A_ForLion_control",
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0000/Hall/LionStatue",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "2F Couch",
@@ -47,7 +48,7 @@
         "item_object": "sm70_100",
         "parent_object": "sm70_100_HandgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Hall",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Shelves",
@@ -57,7 +58,7 @@
         "item_object": "sm70_100",
         "parent_object": "sm70_100_HandgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/SmallDepot",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Boxes",
@@ -67,7 +68,7 @@
         "item_object": "sm70_202",
         "parent_object": "sm70_202_mokuzai",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/SmallDepot",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Downed Zombie",
@@ -77,7 +78,7 @@
         "item_object": "sm70_100",
         "parent_object": "sm70_100_HandgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/PressRoom",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Hiding Place Drawer",
@@ -88,7 +89,8 @@
         },    
         "item_object": "Test_2_1_DrawerDesk_1FE1_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/1F/1FE/PressRoom/DrawerDesk_1FEPressRoom_TreasurePhotoItem"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/1F/1FE/PressRoom/DrawerDesk_1FEPressRoom_TreasurePhotoItem",
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Second Stall",
@@ -98,7 +100,7 @@
         "item_object": "sm70_000",
         "parent_object": "ItemPositions_Toilet_1FE2",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/common/GeneralPurposeGimmicks/ToiletDoor",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Boxes",
@@ -108,7 +110,7 @@
         "item_object": "sm70_001",
         "parent_object": "sm70_001_greenherb",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Reception",
-        "forbid_item": ["Spade Key"]
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Couch",
@@ -118,7 +120,7 @@
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Reception",
-        "forbid_item": ["Spade Key"]
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Side Table",
@@ -128,7 +130,7 @@
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionRoom",
-        "forbid_item": ["Spade Key"]
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Back of Hallway",
@@ -137,7 +139,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker 102",
@@ -148,7 +151,8 @@
         },    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_gunpowder_Locker102",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker 103",
@@ -159,7 +163,8 @@
         },
         "item_object": "WP4500",
         "parent_object": "WP4500_Knife_Locker103",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker 203",
@@ -170,7 +175,8 @@
         },    
         "item_object": "sm74_200",
         "parent_object": "sm74_200_sidepack_Locker203",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker 106",
@@ -179,7 +185,8 @@
         "condition": {},    
         "item_object": "sm72_202",
         "parent_object": "sm72_202_FilmC_Locker106",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker 208",
@@ -190,7 +197,8 @@
         },
         "item_object": "sm70_108",
         "parent_object": "sm70_108_FireB_Locker208",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker 109",
@@ -199,7 +207,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunBullet_Locker109",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/HokankoLocker/HokankoItems",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Weapons Locker Weapon",
@@ -210,7 +219,8 @@
         },    
         "item_object": "WP4100",
         "parent_object": "ItemPositionsCollider_2",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/sm44_020_WeaponLocker"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/sm44_020_WeaponLocker",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Weapons Locker Ammo",
@@ -221,7 +231,8 @@
         },    
         "item_object": "sm70_108",
         "parent_object": "ItemPositionsCollider_3",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/sm44_020_WeaponLocker"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/hokanko/sm44_020_WeaponLocker",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desk by Lockers",
@@ -230,7 +241,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_gunpowder",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/officeW"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/officeW",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker",
@@ -239,7 +251,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "ItemPositions_NormalLocker_OfficeW",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/officeW/Locker_sm70_100_handgunB"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/officeW/Locker_sm70_100_handgunB",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Safe",
@@ -248,7 +261,8 @@
         "condition": {},    
         "item_object": "sm42_019_SafeBoxDial01A_OfficeW_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/1FW/WestOffice/IronSafe_1FWOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/1FW/WestOffice/IronSafe_1FWOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Rookie Desk",
@@ -257,7 +271,8 @@
         "condition": {},    
         "item_object": "sm44_006_LeonDesk01A_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/WestOffice/LeonDesk"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/Claire_S02_0100/1FW/WestOffice/LeonDesk",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Outside Darkroom 1",
@@ -266,7 +281,8 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_001_greenHerb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Outside Darkroom 2",
@@ -275,7 +291,8 @@
         "condition": {},    
         "item_object": "sm70_202",
         "parent_object": "sm70_202_mokuzai",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Left Locker",
@@ -284,7 +301,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "ItemPositions_OldLocker_1FW1",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/DarkRoom/Locker_sm70_205_gunpowder"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/DarkRoom/Locker_sm70_205_gunpowder",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Right Locker",
@@ -293,7 +311,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "ItemPositions_OldLocker_1FW3",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/DarkRoom/Locker_sm70_100_HandgunB_HardInkribbon"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/DarkRoom/Locker_sm70_100_HandgunB_HardInkribbon",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Photo Area",
@@ -302,7 +321,8 @@
         "condition": {},    
         "item_object": "sm70_002",
         "parent_object": "sm70_002_redherb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/DarkRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/DarkRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Downed Zombie",
@@ -311,7 +331,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_HandgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "By Coffee Vending Machine",
@@ -320,7 +341,8 @@
         "condition": {},    
         "item_object": "sm70_002",
         "parent_object": "sm70_002_Redherb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Towel Rack",
@@ -329,7 +351,8 @@
         "condition": {},    
         "item_object": "sm77_002",
         "parent_object": "sm77_002_portablesafe_blankkey_1stPlay",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/ShowerRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/ShowerRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Far Locker by Towel Rack",
@@ -338,7 +361,8 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "ItemPositions_NormalLocker_2FW5",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/ShowerRoom/Locker_sm70_108_FireB"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/ShowerRoom/Locker_sm70_108_FireB",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locked Locker (CAP)",
@@ -347,7 +371,8 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "ItemPositions_NormalLocker_2FW2",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/ShowerRoom/Locker_CAP_sm70_108_FireB"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/ShowerRoom/Locker_CAP_sm70_108_FireB",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker Past Steam",
@@ -358,7 +383,8 @@
         },
         "item_object": "sm70_205",
         "parent_object": "ItemPositions_NormalLocker_2FW9",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/ShowerRoom/Locker_sm70_205_gunpowder"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/ShowerRoom/Locker_sm70_205_gunpowder",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Couch",
@@ -367,7 +393,8 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "CLAIRE_sm70_108_FireB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Hiding Place Drawer",
@@ -378,7 +405,8 @@
         },    
         "item_object": "sm44_004_WeskerDesk01A_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0200/Claire_S02_0200/2FW/StarsOffice/WeskerDesk_Claire"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0200/Claire_S02_0200/2FW/StarsOffice/WeskerDesk_Claire",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Boxes By Door",
@@ -387,7 +415,8 @@
         "condition": {},    
         "item_object": "sm70_002",
         "parent_object": "sm70_002_redherb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Small Office Desk",
@@ -396,7 +425,8 @@
         "condition": {},    
         "item_object": "sm70_204",
         "parent_object": "sm70_204_denchi",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desks 1",
@@ -405,7 +435,8 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "CLAIRE_sm70_108_Fire",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desks 2",
@@ -414,7 +445,8 @@
         "condition": {},    
         "item_object": "WP6300",
         "parent_object": "WP6300_FlashBan",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desks 3",
@@ -423,7 +455,8 @@
         "condition": {},    
         "item_object": "sm70_000",
         "parent_object": "sm70_000_spray",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desks 4",
@@ -432,7 +465,8 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "CLAIRE_sm70_208_Claireyakueki",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Weapon Cage",
@@ -441,7 +475,8 @@
         "condition": {},    
         "item_object": "WP2000",
         "parent_object": "CLAIRE_wp2000_MachineGun",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/StarsOffice"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FW/StarsOffice",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Location 1",
@@ -450,7 +485,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_Gunpowder",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/LinenRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/LinenRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Location 2",
@@ -459,7 +495,8 @@
         "condition": {},    
         "item_object": "sm77_002",
         "parent_object": "sm77_002_portablesafe_sm73_133_blankkey",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/LinenRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/LinenRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Side Table",
@@ -468,7 +505,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_Gunpowder_1st",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/reception2F"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/reception2F",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Unicorn Statue",
@@ -477,7 +515,8 @@
         "condition": {},    
         "item_object": "sm42_176_HieroglyphicDialLock01A_ForUnicorn_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/2FW/Reception2F/UnicornStatue"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/2FW/Reception2F/UnicornStatue",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Downed Zombie",
@@ -486,7 +525,8 @@
         "condition": {},    
         "item_object": "WP4500",
         "parent_object": "WP4500_Knife",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Library"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Library",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table By Front Door",
@@ -495,7 +535,8 @@
         "condition": {},    
         "item_object": "sm73_135",
         "parent_object": "sm73_135_chie no syo",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Library"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Library",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Behind Moveable Shelves",
@@ -504,7 +545,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Library"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FW/Library",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table",
@@ -514,7 +556,7 @@
         "item_object": "sm70_001",
         "parent_object": "sm70_001_Harb",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/WaitingRoom",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Safe Behind Desk",
@@ -524,7 +566,7 @@
         "item_object": "sm42_019_SafeBoxDial01A_OfficeE_control",
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0000/Claire_S02_0000/2FE/2FWaitingRoom/IronSafe_2FE",
-        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key"]
+        "forbid_item": ["Fuse - Main Hall", "Fuse - Break Room Hallway", "Bolt Cutters", "Spade Key", "Heart Key", "Diamond Key"]
     },
     {
         "name": "Table Near Door",
@@ -533,7 +575,8 @@
         "condition": {},    
         "item_object": "sm73_105",
         "parent_object": "sm73_105_WeaponCardKey",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/ArtRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/ArtRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table By Statue",
@@ -542,7 +585,8 @@
         "condition": {},    
         "item_object": "sm73_136",
         "parent_object": "sm73_136_SekizouArm",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/ArtRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/ArtRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Left of Art Room",
@@ -551,7 +595,8 @@
         "condition": {},    
         "item_object": "sm70_202",
         "parent_object": "sm70_202_mokuzai",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Before Fire Escape",
@@ -560,7 +605,8 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "Pos_2FECorridor_sm70_001_Herb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/Corrider"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/2F/2FE/Corrider",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Bottom of Stairs",
@@ -569,7 +615,8 @@
         "condition": {},    
         "item_object": "sm70_202",
         "parent_object": "Pos_sm70_202_mokuzai",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/OutdoorS"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/OutdoorS",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Barrel",
@@ -578,7 +625,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/OutdoorS"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/OutdoorS",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Garbage Beside Door",
@@ -587,7 +635,8 @@
         "condition": {},    
         "item_object": "sm73_726",
         "parent_object": "sm73_726_ChainCutter",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/OutdoorS"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/OutdoorS",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table By Door",
@@ -596,7 +645,8 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_001_herb_noHard",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desk By Downed Zombie",
@@ -605,7 +655,8 @@
         "condition": {},    
         "item_object": "WP6300",
         "parent_object": "wp6300_FlashBan",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Downed Zombie",
@@ -614,7 +665,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Right Side of Desks",
@@ -623,7 +675,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_Gunpowder",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "End of Desks",
@@ -632,7 +685,8 @@
         "condition": {},    
         "item_object": "sm73_722",
         "parent_object": "sm73_722_fuse_1st",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Small Office Desk",
@@ -641,7 +695,8 @@
         "condition": {},    
         "item_object": "sm73_107",
         "parent_object": "sm73_107_BarubuHandoru",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Small Office Furniture",
@@ -650,7 +705,8 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "CLAIRE_sm70_208_Claireyakueki",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/1F/1FE/OfficeE"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/1F/1FE/OfficeE",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desk",
@@ -659,7 +715,8 @@
         "condition": {},    
         "item_object": "sm70_203",
         "parent_object": "sm70_203_NoDenchiShinkan",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Cabinets",
@@ -668,7 +725,8 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_001_GreenHerb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table",
@@ -677,7 +735,8 @@
         "condition": {},    
         "item_object": "WP6300",
         "parent_object": "WP6300_Fashban",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "By Heart Door",
@@ -686,7 +745,8 @@
         "condition": {},    
         "item_object": "sm70_202",
         "parent_object": "sm70_202_mokuzai",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/MissionPreparationRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Pallets",
@@ -695,7 +755,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_HandgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/Corridor"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/Corridor",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Locker (DCM)",
@@ -704,7 +765,8 @@
         "condition": {},    
         "item_object": "sm70_102",
         "parent_object": "ItemPositions_NormalLocker_3FWCorridor",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/3FW/Corridor/Locker_MachinegunB"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/3FW/Corridor/Locker_MachinegunB",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desk",
@@ -713,7 +775,8 @@
         "condition": {},    
         "item_object": "sm73_103",
         "parent_object": "sm73_103_SpadeKey",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/3FWSmallRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/3FWSmallRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Furniture By Door",
@@ -722,7 +785,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_gunpowder",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Floor By Furniture",
@@ -731,7 +795,8 @@
         "condition": {},    
         "item_object": "sm70_202",
         "parent_object": "sm70_202_mokuzai",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Bookshelf",
@@ -740,7 +805,8 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_HandgunB",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Side Table",
@@ -749,7 +815,8 @@
         "condition": {},    
         "item_object": "sm74_200",
         "parent_object": "sm74_200_SidePack_1st",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/LickerRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Maiden Statue",
@@ -760,7 +827,8 @@
         },
         "item_object": "sm42_177_HieroglyphicDialLock01B_ForVirgin_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/3FW/LickerRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/LocationFsm_RPD/S02_0100/3FW/LickerRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Left of Entrance",
@@ -769,7 +837,8 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "CLAIRE_sm70_108_Fire",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/UnderGoddes"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/UnderGoddes",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Desk",
@@ -778,7 +847,8 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_gunpowder_NoHard",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/UnderGoddes"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/UnderGoddes",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Near The Stairs",
@@ -787,7 +857,8 @@
         "condition": {},    
         "item_object": "WP6200",
         "parent_object": "Granade",
-        "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/Weapon/Granade"
+        "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/Weapon/Granade",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "STARS Badge Crate",
@@ -798,7 +869,8 @@
         },    
         "item_object": "sm71_913",
         "parent_object": "ItemPositions",
-        "folder_path": "RopewayContents/World/Location_RPD_B1/Environments/st4_750_0/gimmick_claire"
+        "folder_path": "RopewayContents/World/Location_RPD_B1/Environments/st4_750_0/gimmick_claire",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Location 1",
@@ -899,7 +971,8 @@
         },    
         "item_object": "WP0200",
         "parent_object": "null_ItemPositions_sidepack",
-        "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/LocationFsm_RPD_B1/S02_0500/Claire_S02_0500/AREA_Parking/CarTrunk_Claire"
+        "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/LocationFsm_RPD_B1/S02_0500/Claire_S02_0500/AREA_Parking/CarTrunk_Claire",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table",
@@ -1138,7 +1211,8 @@
         "condition": {},    
         "item_object": "sm70_003",
         "parent_object": "sm70_003_BlueHerb",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/3FDepot"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/3FDepot",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Pallet",
@@ -1147,7 +1221,8 @@
         "condition": {},    
         "item_object": "sm73_152",
         "parent_object": "sm73_152_HagurumaBig",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/3FDepot"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/3FDepot",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Shelves 2",
@@ -1156,7 +1231,8 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "CLAIRE_sm70_108_Fire",
-        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/3FE/ArtRoom"
+        "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/3FE/ArtRoom",
+        "forbid_item": ["Heart Key", "Diamond Key"]
     },
     {
         "name": "Table",
@@ -1803,7 +1879,10 @@
         "item_object": "CFPlay2_CF705_01",
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Scenario/S05_0000/Claire_S05_0000/SherryRoom",
-        "randomized": 0
+        "randomized": 0,
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Desk",
@@ -1812,7 +1891,10 @@
         "condition": {},    
         "item_object": "WP4100",
         "parent_object": "WP4100_Grenade",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/Sherry Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/Sherry Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Downed Zombie at Entrance",
@@ -1821,7 +1903,10 @@
         "condition": {},    
         "item_object": "WP6200",
         "parent_object": "WP6200_grenade",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Booth by Door",
@@ -1830,7 +1915,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Coffee and Candy Counter",
@@ -1839,7 +1927,10 @@
         "condition": {},    
         "item_object": "sm70_109",
         "parent_object": "sm70_109_Spark",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/DiningRoomCorridor"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/DiningRoomCorridor",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Location 1",
@@ -1848,7 +1939,10 @@
         "condition": {},    
         "item_object": "sm70_206",
         "parent_object": "sm70_206_GunpowderBig",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Location 2",
@@ -1857,7 +1951,10 @@
         "condition": {},    
         "item_object": "WP4500",
         "parent_object": "wp4500_Knife",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Table with Lamp",
@@ -1866,7 +1963,10 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "sm70_108_FireB",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/NapRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/NapRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Sleeping Pod",
@@ -1875,7 +1975,10 @@
         "condition": {},    
         "item_object": "sm73_423",
         "parent_object": "sm73_433_WristTagUpdater_Lv1",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/NapRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/NapRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Locker",
@@ -1884,7 +1987,10 @@
         "condition": {},    
         "item_object": "sm71_919",
         "parent_object": "ItemPositionsCollider",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/NapRoom/LockerT01_sm71_919_SparkParts"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/NapRoom/LockerT01_sm71_919_SparkParts",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Sleeping Pod 2",
@@ -1895,7 +2001,10 @@
         },    
         "item_object": "sm74_200",
         "parent_object": "sm74_200_Sidepack",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/NapRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/NapRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Front Desk",
@@ -1904,7 +2013,10 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_002_Greenherb",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/Lobby"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/Lobby",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Behind Front Desk",
@@ -1913,7 +2025,10 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_Gunpowder",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/Lobby"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/Lobby",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Ivy Room Before",
@@ -1922,7 +2037,10 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "sm70_208_ClaireYakueki",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/CorridorA"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/CorridorA",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Middle Desk",
@@ -1931,7 +2049,10 @@
         "condition": {},    
         "item_object": "WP6300",
         "parent_object": "WP6300_flashgrenade_lab_1",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ControlRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ControlRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Dispersal Machine",
@@ -1940,7 +2061,10 @@
         "condition": {},    
         "item_object": "sm42_222_SprayingMachine01A_control",
         "parent_object": "",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/LocationFsm_Laboratory/S05_0100/T_Area/ControlRoom/SanpuSouchiTrue_CONV366,367,368_CF707"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/LocationFsm_Laboratory/S05_0100/T_Area/ControlRoom/SanpuSouchiTrue_CONV366,367,368_CF707",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Before Drug Testing Lab",
@@ -1949,7 +2073,10 @@
         "condition": {},    
         "item_object": "sm70_002",
         "parent_object": "sm70_002_redherb",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Past Ladder",
@@ -1958,7 +2085,10 @@
         "condition": {},    
         "item_object": "sm70_003",
         "parent_object": "sm70_003_BlueHerb",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Location 1",
@@ -1967,7 +2097,10 @@
         "condition": {},    
         "item_object": "sm70_206",
         "parent_object": "sm70_206_GunpowderBig",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ChemicalRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ChemicalRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Location 2",
@@ -1976,7 +2109,10 @@
         "condition": {},    
         "item_object": "WP6200",
         "parent_object": "WP6200_Grenade",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ChemicalRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ChemicalRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Down Ladder Before Lounge",
@@ -1985,7 +2121,10 @@
         "condition": {},    
         "item_object": "sm70_206",
         "parent_object": "sm70_206_GunpowderBig",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/UnderCollidor"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/UnderCollidor",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Bench By Entrance",
@@ -1994,7 +2133,10 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "sm70_108_FireB",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/RestArea"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/RestArea",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Table in Middle of Lounge",
@@ -2003,7 +2145,10 @@
         "condition": {},    
         "item_object": "sm73_426",
         "parent_object": "sm43_426_Kibori no Kuma_1st",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/RestArea"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/RestArea",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Benches Across the Room",
@@ -2012,7 +2157,10 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_001_GreenHerb",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/RestArea"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/RestArea",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Boxes By Door",
@@ -2021,7 +2169,10 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "sm70_208_ClaireYakueki",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotA"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotA",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Locker",
@@ -2030,7 +2181,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "ItemPositionsCollider",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotA/Locker03_HandgunB"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotA/Locker03_HandgunB",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Signal Modulator Panel",
@@ -2039,7 +2193,10 @@
         "condition": {},    
         "item_object": "sm73_424",
         "parent_object": "sm73_424_MenteTool_1st",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotA"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotA",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Table Across from Robot Arm",
@@ -2048,7 +2205,10 @@
         "condition": {},    
         "item_object": "sm70_205",
         "parent_object": "sm70_205_gunpowder",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/LowTempatureRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/LowTempatureRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Left of Door",
@@ -2057,7 +2217,10 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "sm70_208_ClaireYakueki",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotB"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotB",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "On Cart By Laptop",
@@ -2066,7 +2229,10 @@
         "condition": {},    
         "item_object": "WP4500",
         "parent_object": "WP4500_Knife",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotB"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotB",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Shelves Left of Typewriter",
@@ -2075,7 +2241,10 @@
         "condition": {},    
         "item_object": "sm70_108",
         "parent_object": "sm70_108_FireB",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotB"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotB",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Downed Employee",
@@ -2087,7 +2256,10 @@
         "item_object": "sm73_434",
         "parent_object": "sm73_434_WristtagUpdater_Lv2",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse",
-		"randomized": 0
+		"randomized": 0,
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Downed Zombie",
@@ -2096,7 +2268,10 @@
         "condition": {},    
         "item_object": "sm73_438",
         "parent_object": "sm73_438_VideoTape",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Downed Zombie 2",
@@ -2105,7 +2280,10 @@
         "condition": {},    
         "item_object": "WP6200",
         "parent_object": "WP6200_Grenade",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Past Operating Area",
@@ -2114,7 +2292,10 @@
         "condition": {},    
         "item_object": "sm70_003",
         "parent_object": "sm70_003_BlueHerb",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Before Sanitation Spray",
@@ -2123,7 +2304,10 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "sm70_208_ClaireYakueki",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/Corridor"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/Corridor",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Cart By Doorway",
@@ -2132,7 +2316,10 @@
         "condition": {},    
         "item_object": "sm70_206",
         "parent_object": "sm70_206_GunpowderBig",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/GVirusRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/GVirusRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Desk",
@@ -2141,7 +2328,10 @@
         "condition": {},    
         "item_object": "sm70_208",
         "parent_object": "sm70_208_ClaireYakueki",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/GVirusRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/GVirusRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Locker by Desk",
@@ -2150,7 +2340,10 @@
         "condition": {},    
         "item_object": "sm70_002",
         "parent_object": "sm70_002_RedHerb",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/GVirusRoom"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/GVirusRoom",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Table Right of Elevator 1",
@@ -2159,7 +2352,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB_01",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "First of Two Flashbangs",
@@ -2168,7 +2364,10 @@
         "condition": {},    
         "item_object": "WP6300",
         "parent_object": "WP6300_FlashBan",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "1st Table Left of Entrance",
@@ -2177,7 +2376,10 @@
         "condition": {},    
         "item_object": "sm70_000",
         "parent_object": "sm70_000_Spray",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "2nd Table Left of Entrance",
@@ -2186,7 +2388,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "1st Table Right of Entrance",
@@ -2195,7 +2400,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB_03",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Table Right of Elevator 2",
@@ -2204,7 +2412,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100_handgunB_02",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Second of Two Flashbangs",
@@ -2213,7 +2424,10 @@
         "condition": {},    
         "item_object": "WP6300",
         "parent_object": "WP6300_FlashBan",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Right Side of Room 1",
@@ -2222,7 +2436,10 @@
         "condition": {},    
         "item_object": "sm70_109",
         "parent_object": "sm70_109_Cartridge",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "2nd Table Right of Entrance",
@@ -2231,7 +2448,10 @@
         "condition": {},    
         "item_object": "sm70_112",
         "parent_object": "sm70_112_MagnumBClaire",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Right Side of Room 2",
@@ -2240,7 +2460,10 @@
         "condition": {},    
         "item_object": "WP6200",
         "parent_object": "WP6200_Grenade",
-        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room"
+        "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Annette's Wristband",
@@ -2250,7 +2473,10 @@
         "item_object": "CFPlay_EV750",
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Scenario/S05_0200/Claire_S05_0200/GuradRoom",
-        "randomized": 0
+        "randomized": 0,
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "After Elevator 1",
@@ -2259,7 +2485,10 @@
         "condition": {},    
         "item_object": "sm70_000",
         "parent_object": "sm70_000",
-        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common"
+        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "After Elevator 2",
@@ -2268,7 +2497,10 @@
         "condition": {},    
         "item_object": "WP4500",
         "parent_object": "WP4500",
-        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common"
+        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Start of Ivy Room",
@@ -2277,7 +2509,10 @@
         "condition": {},    
         "item_object": "sm70_003",
         "parent_object": "sm70_003",
-        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common"
+        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Before Ladder on Ground",
@@ -2286,7 +2521,10 @@
         "condition": {},    
         "item_object": "sm70_001",
         "parent_object": "sm70_001",
-        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common"
+        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "After Ladder on Ground",
@@ -2295,7 +2533,10 @@
         "condition": {},    
         "item_object": "sm70_100",
         "parent_object": "sm70_100",
-        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common"
+        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Inside Turntable",
@@ -2305,7 +2546,10 @@
         "item_object": "sm73_418",
         "parent_object": "sm73_418_2wakuItem",
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common/Claire_common",
-		"randomized": 0
+		"randomized": 0,
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Final Battle By Item Box",
@@ -2314,7 +2558,10 @@
         "condition": {},    
         "item_object": "sm70_002",
         "parent_object": "sm70_102_RHerb",
-        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common/Claire_common"
+        "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common/Claire_common",
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
     {
         "name": "Turntable Control Room",
@@ -2324,7 +2571,10 @@
         "item_object": "WP4700",
         "parent_object": "wp4700_GatoringuGun",
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/LocationFsm_LaboratoryUndermost/S05_0400/Claire_S05_0400/Enemy",
-        "randomized": 0
+        "randomized": 0,
+        "forbid_item": ["Spade Key", "Heart Key", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
+						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Car Key", "Large Gear", "Small Gear"]
     },
 
     {

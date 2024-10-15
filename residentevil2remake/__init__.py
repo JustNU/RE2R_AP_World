@@ -135,11 +135,6 @@ class ResidentEvil2Remake(World):
                 # if/elif here allows force_item + randomized=0, since a forced item is technically not randomized, but don't need to trigger both.
                 elif 'randomized' in location_data and location_data['randomized'] == 0:
                     location.place_locked_item(self.create_item(location_data["original_item"]))
-                # if location is not force_item'd or not not randomized, check for Labs progression option and apply
-                # since Labs progression option doesn't matter for force_item'd or not randomized locations
-                # we check for zone id > 3 because 3 is typically Sewers, and anything beyond that is Labs / endgame stuff
-                elif self._format_option_text(self.options.allow_progression_in_labs) == 'False' and region_data['zone_id'] > 3:
-                    location.item_rule = lambda item: item.classification != ItemClassification.progression and item.classification != ItemClassification.progression_skip_balancing
                 # END if
 
                 if 'forbid_item' in location_data and location_data['forbid_item']:
