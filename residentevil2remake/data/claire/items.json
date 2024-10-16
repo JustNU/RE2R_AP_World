@@ -321,6 +321,13 @@
         "count": 1,
         "progression": 1
     },
+    {
+        "type": "Gating",
+        "name": "Film - Hiding Place",
+        "decimal": "72",
+        "count": 1,
+        "progression": 1
+    },
 
     {
         "type": "Consumable",
