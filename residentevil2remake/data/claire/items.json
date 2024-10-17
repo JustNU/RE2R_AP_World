@@ -307,6 +307,13 @@
     },
     {
         "type": "Gating",
+        "name": "Tin Storage Box (Car Key)",
+        "decimal": "293",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
         "name": "Large Gear",
         "groups": ["gear"],
         "decimal": "130",

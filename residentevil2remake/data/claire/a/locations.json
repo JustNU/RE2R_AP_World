@@ -1005,7 +1005,7 @@
     {
         "name": "Table",
         "region": "Firing Range",
-        "original_item": "Car Key",
+        "original_item": "Tin Storage Box (Car Key)",
         "condition": {},    
         "item_object": "sm77_004",
         "parent_object": "TinCanBox_ContainCarKey",
