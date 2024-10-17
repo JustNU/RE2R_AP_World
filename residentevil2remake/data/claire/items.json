@@ -260,6 +260,13 @@
         "decimal": "88",
         "count": 1,
         "progression": 1
+    },    
+	{
+        "type": "Gating",
+        "name": "Red Jewel",
+        "decimal": "90",
+        "count": 1,
+        "progression": 1
     },
     {
         "type": "Gating",
