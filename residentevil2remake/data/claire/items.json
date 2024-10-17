@@ -695,6 +695,14 @@
     },
     {
         "type": "Lore",
+        "name": "Tin Storage Box (Film - Lion Statue)",
+        "decimal": "296",
+        "count": 1,
+        "progression": 0,
+        "comments": "I swapped a few of these around, I think they're right but I have been wrong before."
+    },
+    {
+        "type": "Lore",
         "name": "Film - 3F Locker",
         "decimal": "75",
         "count": 1,
