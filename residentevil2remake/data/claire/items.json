@@ -15,6 +15,13 @@
     },
     {
         "type": "Key",
+        "name": "Lovers Relief",
+        "decimal": "128",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
         "name": "Diamond Key",
         "decimal": "119",
         "count": 1,
