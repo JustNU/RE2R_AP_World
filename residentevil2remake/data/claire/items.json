@@ -601,7 +601,7 @@
     },
     {
         "type": "Upgrade",
-        "name": "Laser Sight (JMB Hp3)",
+        "name": "Laser Sight - JMB Hp3",
         "upgrades": "JMB Hp3",
         "decimal": "52",
         "count": 1,
