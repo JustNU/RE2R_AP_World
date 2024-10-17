@@ -617,9 +617,9 @@
     },
     {
         "type": "Upgrade",
-        "name": "High Capacity Mag - MQ 11",
+        "name": "Wooden Box (High Capacity Mag - MQ 11)",
         "upgrades": "MQ 11",
-        "decimal": "58",
+        "decimal": "295",
         "count": 1,
         "progression": 0
     },
