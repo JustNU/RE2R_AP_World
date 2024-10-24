@@ -123,7 +123,7 @@ class Data:
         # Add item table for all difficulties
         ###
         
-        new_item_table = load_data_file(character, 'items.json')
+        new_item_table = load_data_file("", 'items.json')
         Data.item_table.extend([
             { 
                 **item, 
