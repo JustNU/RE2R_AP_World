@@ -207,6 +207,21 @@ class ResidentEvil2Remake(World):
                 self.multiworld.push_precollected(hip_pouches[x]) # starting inv
                 pool.remove(hip_pouches[x])
 
+        # check the starting ink ribbons option and add as precollected, removing from pool and replacing with junk
+        starting_ink_ribbons = int(self.options.starting_ink_ribbons)
+
+        if self._format_option_text(self.options.difficulty) == 'Hardcore' and starting_ink_ribbons > 0:
+            ink_ribbons = [item for item in pool if item.name == 'Ink Ribbon'] # 12+ total in every campaign, I think
+
+            # if the ink ribbons option exceeds the number of ink ribbons in the pool, reduce it to the number in the pool
+            if starting_ink_ribbons > len(ink_ribbons):
+                starting_ink_ribbons = len(ink_ribbons)
+                self.options.starting_ink_ribbons.value = len(ink_ribbons)
+
+            for x in range(starting_ink_ribbons):
+                self.multiworld.push_precollected(ink_ribbons[x]) # starting inv
+                pool.remove(ink_ribbons[x])
+
         # check the bonus start option and add some heal items and ammo packs as precollected / starting items
         if self._format_option_text(self.options.bonus_start) == 'True':
             for x in range(3): self.multiworld.push_precollected(self.create_item('First Aid Spray'))
@@ -461,20 +476,38 @@ class ResidentEvil2Remake(World):
             spoiler_handle.write("\n\n(Ammo totals are for the whole campaign, not per swap/category.)")
 
     def _has_items(self, state: CollectionState, item_names: list) -> bool:
-        # if it requires all unique items, just do a state has all
-        if len(set(item_names)) == len(item_names):
-            return state.has_all(item_names, self.player)
-        # else, it requires some duplicates, so let's group them up and do some has w/ counts
-        else:
-            item_counts = {
-                item_name: len([i for i in item_names if i == item_name]) for item_name in item_names # e.g., { Spare Key: 2 }
-            }
-
-            for item_name, count in item_counts.items():
-                if not state.has(item_name, self.player, count):
-                    return False
-                
+        # if there are no item requirements, this location is open, they "have the items needed"
+        if len(item_names) == 0:
             return True
+
+        # if the requirements are a single set of items, make it a list of a single set of items to support looping for multiple sets (below)
+        if len(item_names) > 0 and type(item_names[0]) is not list:
+            item_names = [item_names]
+
+        for set_of_requirements in item_names:
+            # if it requires all unique items, just do a state has all
+            if len(set(set_of_requirements)) == len(set_of_requirements):
+                if state.has_all(set_of_requirements, self.player):
+                    return True
+            # else, it requires some duplicates, so let's group them up and do some has w/ counts
+            else:
+                item_counts = {
+                    item_name: len([i for i in item_names if i == item_name]) for item_name in set_of_requirements # e.g., { Spare Key: 2 }
+                }
+                missing_an_item = False
+
+                for item_name, count in item_counts.items():
+                    if not state.has(item_name, self.player, count):
+                        missing_an_item = True
+
+                if missing_an_item:
+                    continue # didn't meet these requirements, so skip to the next set, if any
+                
+                # if we made it here, state has all the items and the quantities needed, return True
+                return True
+
+        # if we made it here, state didn't have enough to return True, so return False
+        return False
 
     def _format_option_text(self, option) -> str:
         return re.sub(r'\w+\(', '', str(option)).rstrip(')')
