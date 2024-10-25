@@ -505,7 +505,8 @@
         "decimal": "9",
         "count": 5,
         "progression": 0,
-        "ammo": "Handgun Ammo"
+        "ammo": "Handgun Ammo",
+		"additionalAmmoType": "High-Powered Rounds (SLS 60)"
     },
 	{
         "type": "Weapon",
@@ -524,6 +525,7 @@
         "count": 1,
         "progression": 0,
         "ammo": "Flame Rounds",
+		"additionalAmmoType": "Acid Rounds",
 		"highGradeGunpowder": "White"
     },
     {

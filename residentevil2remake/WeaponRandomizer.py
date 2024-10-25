@@ -16,6 +16,8 @@ class WeaponRandomizer():
         # ammo == None only applies for endgame items, which we want to avoid randomizing into the location of normal weapons
         self.all_weapons = [item for item in world.item_name_to_item.values() if item.get('type') == 'Weapon' and item.get('ammo', None) != None]
         self.starting_ammo_name = 'Handgun Ammo'
+        self.hgg_has_yellow = False
+        self.hgg_has_white = False
         self.world.replacement_weapons[self.world.player] = {}
         self.world.replacement_ammo[self.world.player] = {}
         self.swap_queue = {}
@@ -26,6 +28,19 @@ class WeaponRandomizer():
     def starting(self):
         random_weapon = self._determine_starting_weapon()
         self._queue_swap(self.starting_ammo_name, random_weapon['ammo'], "Ammo")
+        
+        if self.character == "claire" and random_weapon['name'] != "SLS 60":
+            self._queue_swap("High-Powered Rounds (SLS 60)", random_weapon['ammo'], "Ammo")
+            
+            if 'additionalAmmoType' in random_weapon:
+                self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
+        
+        if 'highGradeGunpowder' in random_weapon: 
+            if random_weapon['highGradeGunpowder'] == "Yellow":
+                self.hgg_has_yellow = True
+
+            if random_weapon['highGradeGunpowder'] == "White":
+               self.hgg_has_white = True
 
         self._swap_queued_at_locations()
 
@@ -35,6 +50,20 @@ class WeaponRandomizer():
     def match(self):
         random_weapon = self._determine_starting_weapon('light') # match starting weapon level too
         self._queue_swap(self.starting_ammo_name, random_weapon['ammo'], "Ammo")
+        
+        if self.character == "claire" and random_weapon['name'] != "SLS 60":
+            self._queue_swap("High-Powered Rounds (SLS 60)", random_weapon['ammo'], "Ammo")
+            
+            if 'additionalAmmoType' in random_weapon:
+                self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
+        
+        if 'highGradeGunpowder' in random_weapon: 
+            if random_weapon['highGradeGunpowder'] == "Yellow":
+                self.hgg_has_yellow = True
+
+            if random_weapon['highGradeGunpowder'] == "White":
+                self.hgg_has_white = True
+        
         weapons = self._get_weapons_from_locations()
         
         for weapon in weapons:
@@ -46,6 +75,16 @@ class WeaponRandomizer():
                         self._queue_swap(weapon['name'], matched['name'], "Weapon")
                         self._queue_swap(weapon['ammo'], matched['ammo'], "Ammo")
 
+                        if 'additionalAmmoType' in matched:
+                            self._queue_swap(weapon['ammo'], matched['additionalAmmoType'], "Ammo")
+                        
+                        if 'highGradeGunpowder' in matched: 
+                            if matched['highGradeGunpowder'] == "Yellow":
+                                self.hgg_has_yellow = True
+                                
+                            if matched['highGradeGunpowder'] == "White":
+                                self.hgg_has_white = True
+
                         # remove anything that was placed so it's not placed again
                         self.weapons_by_level[key] = [i for i in self.weapons_by_level[key] if i['name'] != matched['name']]
 
@@ -56,9 +95,22 @@ class WeaponRandomizer():
     ###
     def full(self, include_ammo: Optional[bool] = True):
         random_weapon = self._determine_starting_weapon()
+        
+        if 'highGradeGunpowder' in random_weapon: 
+            if random_weapon['highGradeGunpowder'] == "Yellow":
+                self.hgg_has_yellow = True
+
+            if random_weapon['highGradeGunpowder'] == "White":
+                self.hgg_has_white = True
 
         if include_ammo:
             self._queue_swap(self.starting_ammo_name, random_weapon['ammo'], "Ammo")
+        
+            if self.character == "claire" and random_weapon['name'] != "SLS 60":
+                self._queue_swap("High-Powered Rounds (SLS 60)", random_weapon['ammo'], "Ammo")
+
+                if 'additionalAmmoType' in random_weapon:
+                    self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
 
         weapons = self._get_weapons_from_locations()
 
@@ -66,10 +118,21 @@ class WeaponRandomizer():
             matched = self.random.choice(self.all_weapons)
 
             self._queue_swap(weapon['name'], matched['name'], "Weapon")
+            
+
+            if 'highGradeGunpowder' in matched: 
+                if matched['highGradeGunpowder'] == "Yellow":
+                    self.hgg_has_yellow = True
+
+                if matched['highGradeGunpowder'] == "White":
+                    self.hgg_has_white = True
 
             # by default, this includes ammo. for options that rando ammo completely, this will be False
             if include_ammo:
                 self._queue_swap(weapon['ammo'], matched['ammo'], "Ammo")
+
+                if 'additionalAmmoType' in matched:
+                        self._queue_swap(weapon['ammo'], matched['additionalAmmoType'], "Ammo")
 
             # remove anything that was placed so it's not placed again
             self.all_weapons = [i for i in self.all_weapons if i['name'] != matched['name']]
@@ -80,10 +143,12 @@ class WeaponRandomizer():
     # CrossScenarioWeapons == "All"
     ###
     def all(self, include_ammo: Optional[bool] = True):
-        random_weapon = self._determine_starting_weapon()
-        self._queue_swap(self.starting_ammo_name, random_weapon['ammo'], "Ammo")
-        
+        self._determine_starting_weapon()
         weapons = self._get_weapons_from_locations()
+        
+        # set both gunpowders to true
+        self.hgg_has_yellow = True
+        self.hgg_has_white = True
 
         # replace the base weapons...
         for weapon in weapons:
@@ -242,24 +307,51 @@ class WeaponRandomizer():
 
             if "High-Grade Gunpowder" in original_item or "High-Grade Gunpowder" in force_item:
                 location_names_with_hgg.append(loc_name)
+        
+        
+        # check what high grade the weapons require
+        if self.hgg_has_yellow == True and self.hgg_has_white == True:
+            # Alternate back and forth playing Yellow and White
+            counter = 0
+            for loc_name in location_names_with_hgg:
+                if counter % 2 == 0:
+                    if self.world.source_locations[self.world.player][loc_name].get("original_item"):
+                        self.world.source_locations[self.world.player][loc_name]["original_item"] = "High-Grade Gunpowder - Yellow"
+                    
+                    if self.world.source_locations[self.world.player][loc_name].get("force_item"):
+                        self.world.source_locations[self.world.player][loc_name]["force_item"] = "High-Grade Gunpowder - Yellow"
+                else:
+                    if self.world.source_locations[self.world.player][loc_name].get("original_item"):
+                        self.world.source_locations[self.world.player][loc_name]["original_item"] = "High-Grade Gunpowder - White"
+                    
+                    if self.world.source_locations[self.world.player][loc_name].get("force_item"):
+                        self.world.source_locations[self.world.player][loc_name]["force_item"] = "High-Grade Gunpowder - White"
 
-        # Alternate back and forth playing Yellow and White
-        counter = 0
-        for loc_name in location_names_with_hgg:
-            if counter % 2 == 0:
+                counter = counter + 1
+        elif self.hgg_has_yellow == True and self.hgg_has_white == False:
+            # only spawn yellow
+            for loc_name in location_names_with_hgg:
                 if self.world.source_locations[self.world.player][loc_name].get("original_item"):
                     self.world.source_locations[self.world.player][loc_name]["original_item"] = "High-Grade Gunpowder - Yellow"
-                
+                    
                 if self.world.source_locations[self.world.player][loc_name].get("force_item"):
                     self.world.source_locations[self.world.player][loc_name]["force_item"] = "High-Grade Gunpowder - Yellow"
-            else:
+        elif self.hgg_has_yellow == False and self.hgg_has_white == True:
+            # only spawn white
+            for loc_name in location_names_with_hgg:
                 if self.world.source_locations[self.world.player][loc_name].get("original_item"):
                     self.world.source_locations[self.world.player][loc_name]["original_item"] = "High-Grade Gunpowder - White"
-                
+                    
                 if self.world.source_locations[self.world.player][loc_name].get("force_item"):
                     self.world.source_locations[self.world.player][loc_name]["force_item"] = "High-Grade Gunpowder - White"
-
-            counter = counter + 1
+        else:
+            # has neither yellows or whites, just replace with gunpowder
+            for loc_name in location_names_with_hgg:
+                if self.world.source_locations[self.world.player][loc_name].get("original_item"):
+                    self.world.source_locations[self.world.player][loc_name]["original_item"] = "Gunpowder"
+                    
+                if self.world.source_locations[self.world.player][loc_name].get("force_item"):
+                    self.world.source_locations[self.world.player][loc_name]["force_item"] = "Gunpowder"
 
     #################
     # Private methods for various tasks that each setting might need to do
@@ -276,7 +368,7 @@ class WeaponRandomizer():
         self.world.starting_weapon[self.world.player] = random_weapon["name"]
         # starting weapon isn't on a location, so no need to set replacement; but set replacement for ammo
         self.world.replacement_ammo[self.world.player][self.starting_ammo_name] = [random_weapon["ammo"]]
-
+        
         # remove the starting
         self.all_weapons = [i for i in self.all_weapons if i['name'] != random_weapon['name']]
 
