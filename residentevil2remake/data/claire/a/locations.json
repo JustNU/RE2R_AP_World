@@ -718,7 +718,8 @@
         "item_object": "sm70_001",
         "parent_object": "sm70_001_herb_noHard",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/OfficeE",
-        "forbid_item": ["Lovers Relief", "Diamond Key", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["Lovers Relief", "Diamond Key", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", 
+						"Joint Plug", "T-Bar Handle", "Sewers Key"]
     },
     {
         "name": "Desk By Downed Zombie",
@@ -1057,7 +1058,8 @@
         "item_object": "sm74_200",
         "parent_object": "PosOnly_ItemLocker",
         "folder_path": "RopewayContents/World/Location_RPD_B1/Environments/st4_751_0/gimmick",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key"]
     },
     {
         "name": "Police Car Trunk",
@@ -1153,7 +1155,8 @@
         "item_object": "WP6300",
         "parent_object": "Flash",
         "folder_path": "RopewayContents/World/Location_RPD_B1/Environments/st4_702_0/gimmick",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key"]
     },
     {
         "name": "Next to Last Drawer",
@@ -1163,7 +1166,8 @@
         "item_object": "sm73_140",
         "parent_object": "Key_DiaMark_Leon",
         "folder_path": "RopewayContents/World/Location_RPD_B1/Environments/st4_702_0/gimmick",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key"]
     },
     {
         "name": "Locker",
@@ -1175,7 +1179,8 @@
         "item_object": "sm71_917",
         "parent_object": "PosOnly_ClaireLocker",
         "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/Claire_common",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key"]
     },
     {
         "name": "Boxes Next to Table",
@@ -1187,7 +1192,8 @@
         "item_object": "sm70_208",
         "parent_object": "sm70_208",
         "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/Claire_common/WhiteChemical_CLEAR",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key"]
     },
     {
         "name": "Corner of Room on Ground",
@@ -1199,7 +1205,8 @@
         "item_object": "sm70_003",
         "parent_object": "sm70_003_01",
         "folder_path": "RopewayContents/World/Location_RPD_B1/LocationLevel_RPD_B1/Item/common/BlueHerb",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key"]
     },
     {
         "name": "Near Door on Ground",
@@ -1231,8 +1238,8 @@
         "item_object": "sm70_208",
         "parent_object": "sm70_208_ClaireYakueki",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/2F/2FE/ChiefStore",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key", 
-						"Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key"]
     },
     {
         "name": "Stabbed into Manikin Head",
@@ -1280,7 +1287,7 @@
         "parent_object": "sm70_205_gunpowder",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/InterrogationRoom",
         "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
-						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key"]
+						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "Shelves",
@@ -1291,7 +1298,7 @@
         "parent_object": "sm73_112_BlueJuelBox_StarsBadgeInside_1stPlay",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/Claire_common/1F/1FE/InterrogationRoom",
         "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
-						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key"]
+						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "Location 1",
@@ -1302,7 +1309,7 @@
         "parent_object": "sm70_100_handgunB",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FE/InterrogationRoom",
         "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
-						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key"]
+						"Sewers Key", "Unicorn Medallion", "Lion Medallion", "Maiden Medallion", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "3F By Stairs",
@@ -1313,7 +1320,7 @@
         "parent_object": "sm70_202_mokuzai",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/Corridor",
         "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
-						"Sewers Key", "Diamond Key", "Maiden Medallion"]
+						"Sewers Key", "Diamond Key", "Maiden Medallion", "Lovers Relief"]
     },
     {
         "name": "3F Locker 1",
@@ -1324,7 +1331,7 @@
         "parent_object": "ItemPositions_NormalLocker_3FE1",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/Corridor/Locker_WP6300_FlashBan",
         "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
-						"Sewers Key", "Diamond Key", "Maiden Medallion"]
+						"Sewers Key", "Diamond Key", "Maiden Medallion", "Lovers Relief"]
     },
     {
         "name": "3F Locker 2",
@@ -1335,7 +1342,7 @@
         "parent_object": "ItemPositions_NormalLocker_3FE2",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FE/Corridor/Locker_sm70_100_HandgunB",
         "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
-						"Sewers Key", "Diamond Key", "Maiden Medallion"]
+						"Sewers Key", "Diamond Key", "Maiden Medallion", "Lovers Relief"]
     },
     {
         "name": "Shelves 1",
@@ -1444,7 +1451,8 @@
         "item_object": "sm70_205",
         "parent_object": "sm70_205_gunpowder_noHard",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/ReferenceRoom",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key"]
     },
     {
         "name": "Table 1",
@@ -1454,7 +1462,8 @@
         "item_object": "sm73_100",
         "parent_object": "sm73_100_TosyokanItem",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/ReferenceRoom",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key"]
     },
     {
         "name": "Table 2",
@@ -1464,7 +1473,8 @@
         "item_object": "WP6200",
         "parent_object": "WP6200_Grenade",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/1F/1FW/ReferenceRoom",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key"]
     },
     {
         "name": "Outside Clock Tower Door",
@@ -1474,7 +1484,8 @@
         "item_object": "sm70_001",
         "parent_object": "sm70_001_GreenHerb",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/Hall",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "Use the Gears",
@@ -1485,7 +1496,8 @@
         "parent_object": "ItemPositions",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st4_602_0/gimmick/CutScene",
         "randomized": 0,
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "Back Hallway",
@@ -1495,7 +1507,8 @@
         "item_object": "sm70_206",
         "parent_object": "sm70_206_GunpowderBig",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Item/common/3FHigher/3FW/Corridor",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "Upstairs Machine",
@@ -1505,7 +1518,8 @@
         "item_object": "sm73_151",
         "parent_object": "ItemPositions_Top_Small",
         "folder_path": "RopewayContents/World/Location_RPD/Environments/st4_602_0/gimmick/CutScene",
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key", "Lovers Relief"]
     },
     {
         "name": "Secured Area",
@@ -1518,7 +1532,8 @@
         "parent_object": "",
         "folder_path": "RopewayContents/World/Location_RPD/LocationLevel_RPD/Scenario/S02_0500/Claire_S02_0500/2FE/ChiefRoom/FromSherryPart",
         "randomized": 0,
-        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", "Sewers Key"]
+        "forbid_item": ["ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle", 
+						"Sewers Key", "Diamond Key"]
     },
     {
         "name": "Just Outside Gate",
@@ -1591,7 +1606,7 @@
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
 						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
-						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
+						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty", "Film - Hiding Place"]
     },
     {
         "name": "Bathroom Vanity",
@@ -1604,7 +1619,7 @@
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
 						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
-						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
+						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty", "Film - Hiding Place"]
     },
     {
         "name": "Maintenance Room",
@@ -1617,7 +1632,7 @@
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
 						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
-						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
+						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty", "Film - Hiding Place"]
     },
     {
         "name": "Table",
@@ -1630,7 +1645,7 @@
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff",
 						"Upgrade Chip - Admin", "Signal Modulator", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", "Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1",
-						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty"]
+						"Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Dispersal Cartridge - Empty", "Film - Hiding Place"]
     },
     {
         "name": "At Water Gate",
@@ -1700,7 +1715,7 @@
         "item_object": "sm70_206",
         "parent_object": "sm70_206_ww_1_01",
         "folder_path": "RopewayContents/World/Location_WasteWater/LocationLevel_WasteWater/Item/common/Gunpowder_BIG",
-        "forbid_item": ["T-Bar Handle", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "T-Bar Handle"]
+        "forbid_item": ["T-Bar Handle", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug"]
     },
     {
         "name": "Table Location 2",
@@ -2003,7 +2018,8 @@
         "item_object": "sm70_003",
         "parent_object": "sm70_003_ww_4_01",
         "folder_path": "RopewayContents/World/Location_WasteWater/LocationLevel_WasteWater/Item/common/G2Area",
-        "forbid_item": ["T-Bar Handle", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", "Sewers Key"]
+        "forbid_item": ["T-Bar Handle", "ID Wristband - Visitor", "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Upgrade Chip - Admin", "Signal Modulator", "Dispersal Cartridge - Empty", "Joint Plug", 
+						"Sewers Key"]
     },
     {
         "name": "By Railing",
@@ -2076,7 +2092,7 @@
         "randomized": 0,
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Desk",
@@ -2088,7 +2104,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/Sherry Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Downed Zombie at Entrance",
@@ -2100,7 +2116,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Booth by Door",
@@ -2112,7 +2128,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Coffee and Candy Counter",
@@ -2124,7 +2140,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/DiningRoomCorridor",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Location 1",
@@ -2136,7 +2152,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Location 2",
@@ -2148,7 +2164,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/DiningRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Table with Lamp",
@@ -2160,7 +2176,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/NapRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Sleeping Pod",
@@ -2172,7 +2188,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/NapRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Locker",
@@ -2184,7 +2200,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/StartArea/NapRoom/LockerT01_sm71_919_SparkParts",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Sleeping Pod 2",
@@ -2198,7 +2214,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/StartArea/NapRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Front Desk",
@@ -2210,7 +2226,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/Lobby",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Behind Front Desk",
@@ -2222,7 +2238,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/Lobby",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Ivy Room Before",
@@ -2234,7 +2250,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/CorridorA",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Middle Desk",
@@ -2246,7 +2262,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ControlRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Dispersal Machine",
@@ -2258,7 +2274,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/LocationFsm_Laboratory/S05_0100/T_Area/ControlRoom/SanpuSouchiTrue_CONV366,367,368_CF707",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Before Drug Testing Lab",
@@ -2270,7 +2286,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Past Ladder",
@@ -2282,7 +2298,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/GreenHouse",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Location 1",
@@ -2294,7 +2310,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ChemicalRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Location 2",
@@ -2306,7 +2322,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/ChemicalRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Down Ladder Before Lounge",
@@ -2318,7 +2334,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/UnderCollidor",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Bench By Entrance",
@@ -2330,7 +2346,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/RestArea",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Table in Middle of Lounge",
@@ -2342,7 +2358,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/RestArea",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Benches Across the Room",
@@ -2354,7 +2370,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/RestArea",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Boxes By Door",
@@ -2366,7 +2382,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotA",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Locker",
@@ -2378,7 +2394,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotA/Locker03_HandgunB",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Signal Modulator Panel",
@@ -2390,7 +2406,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotA",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Table Across from Robot Arm",
@@ -2402,7 +2418,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/LowTempatureRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Left of Door",
@@ -2414,7 +2430,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotB",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "On Cart By Laptop",
@@ -2426,7 +2442,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/T_Area/DepotB",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Shelves Left of Typewriter",
@@ -2438,7 +2454,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/TArea/DepotB",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Downed Employee",
@@ -2453,7 +2469,7 @@
 		"randomized": 0,
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Downed Zombie",
@@ -2465,7 +2481,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Downed Zombie 2",
@@ -2477,7 +2493,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Past Operating Area",
@@ -2489,7 +2505,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/P4ExperimentRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Before Sanitation Spray",
@@ -2501,7 +2517,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/Corridor",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Cart By Doorway",
@@ -2513,7 +2529,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/GVirusRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Desk",
@@ -2525,7 +2541,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/GVirusRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Locker by Desk",
@@ -2537,7 +2553,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/GVirusRoom",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Table Right of Elevator 1",
@@ -2549,7 +2565,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "First of Two Flashbangs",
@@ -2561,7 +2577,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "1st Table Left of Entrance",
@@ -2573,7 +2589,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "2nd Table Left of Entrance",
@@ -2585,7 +2601,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "1st Table Right of Entrance",
@@ -2597,7 +2613,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Table Right of Elevator 2",
@@ -2609,7 +2625,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Second of Two Flashbangs",
@@ -2621,7 +2637,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Right Side of Room 1",
@@ -2633,7 +2649,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "2nd Table Right of Entrance",
@@ -2645,7 +2661,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/Claire_common/GArea/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Right Side of Room 2",
@@ -2657,7 +2673,7 @@
         "folder_path": "RopewayContents/World/Location_Laboratory/LocationLevel_Laboratory/Item/common/G_Area/G3Room",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Annette's Wristband",
@@ -2670,7 +2686,7 @@
         "randomized": 0,
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "After Elevator 1",
@@ -2682,7 +2698,7 @@
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "After Elevator 2",
@@ -2694,7 +2710,7 @@
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Start of Ivy Room",
@@ -2706,7 +2722,7 @@
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Before Ladder on Ground",
@@ -2718,7 +2734,7 @@
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "After Ladder on Ground",
@@ -2730,7 +2746,7 @@
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Joint Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Inside Turntable",
@@ -2743,7 +2759,7 @@
 		"randomized": 0,
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Final Battle By Item Box",
@@ -2755,7 +2771,7 @@
         "folder_path": "RopewayContents/World/Location_LaboratoryUndermost/LocationLevel_LaboratoryUndermost/Item/common/Claire_common",
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
     {
         "name": "Turntable Control Room",
@@ -2768,22 +2784,16 @@
         "randomized": 0,
         "forbid_item": ["Spade Key", "Lovers Relief", "Diamond Key", "Fuse - Main Hall", "Bolt Cutters", "Valve Handle", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Parking Garage Key Card", 
 						"T-Bar Handle", "Sewers Key", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Electronic Gadget", "Battery", "Spare Key", "Red Book", "Statue Left Arm", 
-						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear"]
+						"Bejeweled Box", "Weapons Locker Key Card", "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Tin Storage Box (Car Key)", "Large Gear", "Small Gear", "Film - Hiding Place"]
     },
 
     {
         "name": "Victory",
         "region": "Path to G4",
         "condition": {
-            "items": [
-                "Spade Key", "Lovers Relief", "Diamond Key",
-                "Bolt Cutters", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion",
-                "Mechanic Jack Handle", "Small Gear", "Large Gear", 
-                "Boxed Electronic Part 1", "Boxed Electronic Part 2", "Parking Garage Key Card",
-                "T-Bar Handle", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", 
-                "Upgrade Chip - General Staff", "Upgrade Chip - Senior Staff", "Signal Modulator",
-                "Joint Plug"
-            ]
+            "items": ["Spade Key", "Lovers Relief", "Diamond Key","Bolt Cutters", "Lion Medallion", "Unicorn Medallion", "Maiden Medallion", "Mechanic Jack Handle", "Small Gear", "Large Gear", "Boxed Electronic Part 1", 
+					  "Boxed Electronic Part 2", "Parking Garage Key Card", "T-Bar Handle", "Pawn Plug", "Knight Plug", "Bishop Plug", "Rook Plug", "Queen Plug", "King Plug", "Upgrade Chip - General Staff", 
+					  "Upgrade Chip - Senior Staff", "Signal Modulator", "Joint Plug"]
         },
         "item_object": "Ending_Claire",
         "parent_object": "",
