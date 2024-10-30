@@ -21,6 +21,9 @@ class WeaponRandomizer():
         self.world.replacement_weapons[self.world.player] = {}
         self.world.replacement_ammo[self.world.player] = {}
         self.swap_queue = {}
+        
+        # set the default string to just gunpowder
+        self.hgg_string = "Gunpowder"
 
     ###
     # CrossScenarioWeapons == "Starting"
@@ -32,8 +35,8 @@ class WeaponRandomizer():
         if self.character == "claire" and random_weapon['name'] != "SLS 60":
             self._queue_swap("High-Powered Rounds (SLS 60)", random_weapon['ammo'], "Ammo")
             
-            if 'additionalAmmoType' in random_weapon:
-                self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
+        if 'additionalAmmoType' in random_weapon:
+            self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
         
         if 'highGradeGunpowder' in random_weapon: 
             if random_weapon['highGradeGunpowder'] == "Yellow":
@@ -54,8 +57,8 @@ class WeaponRandomizer():
         if self.character == "claire" and random_weapon['name'] != "SLS 60":
             self._queue_swap("High-Powered Rounds (SLS 60)", random_weapon['ammo'], "Ammo")
             
-            if 'additionalAmmoType' in random_weapon:
-                self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
+        if 'additionalAmmoType' in random_weapon:
+            self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
         
         if 'highGradeGunpowder' in random_weapon: 
             if random_weapon['highGradeGunpowder'] == "Yellow":
@@ -109,8 +112,8 @@ class WeaponRandomizer():
             if self.character == "claire" and random_weapon['name'] != "SLS 60":
                 self._queue_swap("High-Powered Rounds (SLS 60)", random_weapon['ammo'], "Ammo")
 
-                if 'additionalAmmoType' in random_weapon:
-                    self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
+            if 'additionalAmmoType' in random_weapon:
+                self._queue_swap(self.starting_ammo_name, random_weapon['additionalAmmoType'], "Ammo")
 
         weapons = self._get_weapons_from_locations()
 
